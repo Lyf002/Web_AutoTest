@@ -1,0 +1,16 @@
+2019-03-03 14:55:29,587-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-03-03 14:55:29,588-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-03-03 14:55:32,778-BrowserEngine-INFO-Starting chrome browser.
+2019-03-03 14:55:33,756-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 14:55:34,906-BrowserEngine-INFO-Maximize the current window.
+2019-03-03 14:55:34,908-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-03-03 14:55:34,975-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x0000021F800149B0>找到页面元素('id', 'ls_username')
+2019-03-03 14:55:35,127-BasePage-INFO-输入
+2019-03-03 14:55:35,188-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x0000021F800149B0>找到页面元素('id', 'ls_password')
+2019-03-03 14:55:35,353-BasePage-INFO-输入
+2019-03-03 14:55:35,416-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x0000021F800149B0>找到页面元素('css selector', '.fastlg_l em')
+2019-03-03 14:55:35,537-BasePage-INFO-点击
+2019-03-03 14:55:43,861-BasePage-INFO-截图成功
+2019-03-03 14:55:43,861-BasePage-ERROR-<pageobjects.base.BasePage object at 0x0000021FFFA3B898>页面元素未找到--(('css selector', '.ptm .cl li a:nth-last-child(1)'),)
+2019-03-03 14:55:44,152-BasePage-INFO-截图成功
+2019-03-03 14:55:44,152-BasePage-ERROR-获取文本失败

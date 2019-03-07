@@ -1,0 +1,44 @@
+2019-02-28 19:36:02,761-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-02-28 19:36:02,762-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-02-28 19:36:05,332-BrowserEngine-INFO-Starting chrome browser.
+2019-02-28 19:36:06,130-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 19:36:07,274-BrowserEngine-INFO-Maximize the current window.
+2019-02-28 19:36:07,277-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-02-28 19:36:07,343-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('id', 'ls_username')
+2019-02-28 19:36:07,501-BasePage-INFO-输入
+2019-02-28 19:36:07,602-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('id', 'ls_password')
+2019-02-28 19:36:07,751-BasePage-INFO-输入
+2019-02-28 19:36:07,813-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('css selector', '.fastlg_l em')
+2019-02-28 19:36:07,936-BasePage-INFO-点击
+2019-02-28 19:36:12,996-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('css selector', '.bm_c h2 a')
+2019-02-28 19:36:13,702-BasePage-INFO-点击
+2019-02-28 19:36:18,766-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('css selector', '.bm_c .pbt input')
+2019-02-28 19:36:19,038-BasePage-INFO-输入
+2019-02-28 19:36:19,118-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000252E6D442E8>找到页面元素('id', 'fastpostmessage')
+2019-02-28 19:36:19,300-BasePage-INFO-输入
+2019-02-28 19:36:55,156-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-02-28 19:36:55,157-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-02-28 19:36:58,186-BrowserEngine-INFO-Starting chrome browser.
+2019-02-28 19:36:59,028-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 19:37:00,179-BrowserEngine-INFO-Maximize the current window.
+2019-02-28 19:37:00,182-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-02-28 19:37:00,253-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('id', 'ls_username')
+2019-02-28 19:37:00,472-BasePage-INFO-输入
+2019-02-28 19:37:00,532-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('id', 'ls_password')
+2019-02-28 19:37:00,672-BasePage-INFO-输入
+2019-02-28 19:37:00,735-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('css selector', '.fastlg_l em')
+2019-02-28 19:37:00,839-BasePage-INFO-点击
+2019-02-28 19:37:05,900-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('css selector', '.bm_c h2 a')
+2019-02-28 19:37:06,666-BasePage-INFO-点击
+2019-02-28 19:37:11,766-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('css selector', '.bm_c .pbt input')
+2019-02-28 19:37:12,134-BasePage-INFO-输入
+2019-02-28 19:37:23,100-BasePage-INFO-截图成功
+2019-02-28 19:37:23,100-BasePage-ERROR-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>页面元素未找到--('id', 'fastpostmessa')
+2019-02-28 19:37:23,426-BasePage-INFO-截图成功
+2019-02-28 19:37:23,426-BasePage-ERROR-输入失败！
+2019-02-28 19:37:23,485-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('id', 'fastpostsubmit')
+2019-02-28 19:37:23,662-BasePage-INFO-点击
+2019-02-28 19:37:23,735-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('id', 'fastpostmessage')
+2019-02-28 19:37:23,905-BasePage-INFO-输入
+2019-02-28 19:37:24,019-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000290BBD912E8>找到页面元素('link text', '退出')
+2019-02-28 19:37:24,451-BasePage-INFO-点击

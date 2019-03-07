@@ -1,0 +1,27 @@
+2019-02-28 20:44:43,294-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-02-28 20:44:43,294-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-02-28 20:44:46,638-BrowserEngine-INFO-Starting chrome browser.
+2019-02-28 20:44:47,446-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 20:44:48,601-BrowserEngine-INFO-Maximize the current window.
+2019-02-28 20:44:48,606-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-02-28 20:44:48,674-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('id', 'ls_username')
+2019-02-28 20:44:48,853-BasePage-INFO-输入
+2019-02-28 20:44:48,953-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('id', 'ls_password')
+2019-02-28 20:44:49,093-BasePage-INFO-输入
+2019-02-28 20:44:49,154-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('css selector', '.fastlg_l em')
+2019-02-28 20:44:49,269-BasePage-INFO-点击
+2019-02-28 20:44:54,347-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('css selector', '.bm_c h2 a')
+2019-02-28 20:44:55,063-BasePage-INFO-点击
+2019-02-28 20:44:57,125-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('name', 'moderate[]')
+2019-02-28 20:44:57,240-BasePage-INFO-点击
+2019-02-28 20:44:57,550-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('link text', '删除')
+2019-02-28 20:44:58,095-BasePage-INFO-点击
+2019-02-28 20:44:58,167-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('id', 'modsubmit')
+2019-02-28 20:44:59,104-BasePage-INFO-点击
+2019-02-28 20:44:59,368-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('link text', '管理中心')
+2019-02-28 20:44:59,752-BasePage-INFO-点击
+2019-02-28 20:44:59,897-HomePage-INFO-Switch to current window successfully
+2019-02-28 20:45:01,039-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('name', 'admin_password')
+2019-02-28 20:45:01,165-BasePage-INFO-输入
+2019-02-28 20:45:01,227-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001B9E54F4898>找到页面元素('name', 'submit')
+2019-02-28 20:45:23,852-BasePage-INFO-点击

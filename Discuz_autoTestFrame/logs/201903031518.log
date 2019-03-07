@@ -1,0 +1,50 @@
+2019-03-03 15:18:07,004-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-03-03 15:18:07,005-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-03-03 15:18:10,344-BrowserEngine-INFO-Starting chrome browser.
+2019-03-03 15:18:11,312-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 15:18:12,471-BrowserEngine-INFO-Maximize the current window.
+2019-03-03 15:18:12,475-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-03-03 15:18:12,546-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('id', 'ls_username')
+2019-03-03 15:18:12,701-BasePage-INFO-输入
+2019-03-03 15:18:12,759-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('id', 'ls_password')
+2019-03-03 15:18:12,896-BasePage-INFO-输入
+2019-03-03 15:18:12,958-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.fastlg_l em')
+2019-03-03 15:18:13,065-BasePage-INFO-点击
+2019-03-03 15:18:18,133-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.bm_c h2 a')
+2019-03-03 15:18:18,833-BasePage-INFO-点击
+2019-03-03 15:18:20,893-BasePage-INFO-<pageobjects.base.BasePage object at 0x0000016865B2AF98>找到页面元素('css selector', '.xs2 a')
+2019-03-03 15:18:21,000-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('id', 'newspecial')
+2019-03-03 15:18:22,099-BasePage-INFO-点击
+2019-03-03 15:18:22,243-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.mbw li:nth-last-child(1) a')
+2019-03-03 15:18:23,092-BasePage-INFO-点击
+2019-03-03 15:18:23,228-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('id', 'subject')
+2019-03-03 15:18:23,504-BasePage-INFO-输入
+2019-03-03 15:18:23,563-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.mbm p:nth-child(1) input')
+2019-03-03 15:18:23,771-BasePage-INFO-输入
+2019-03-03 15:18:23,839-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.mbm p:nth-child(2) input')
+2019-03-03 15:18:23,972-BasePage-INFO-输入
+2019-03-03 15:18:24,043-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.mbm p:nth-child(3) input')
+2019-03-03 15:18:24,189-BasePage-INFO-输入
+2019-03-03 15:18:24,290-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', 'body')
+2019-03-03 15:18:24,468-BasePage-INFO-输入
+2019-03-03 15:18:24,557-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('id', 'postsubmit')
+2019-03-03 15:18:24,750-BasePage-INFO-点击
+2019-03-03 15:18:26,325-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(1)  .pslt input')
+2019-03-03 15:18:26,446-BasePage-INFO-点击
+2019-03-03 15:18:26,523-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pn span')
+2019-03-03 15:18:27,649-BasePage-INFO-点击
+2019-03-03 15:18:30,649-HomePage-INFO-选项名称及投票比例：
+2019-03-03 15:18:30,715-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(1) .pvt label')
+2019-03-03 15:18:30,833-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(2) td:nth-last-child(1)')
+2019-03-03 15:18:30,898-HomePage-INFO-投票选项1标题：1.  001
+2019-03-03 15:18:30,899-HomePage-INFO-投票选项1比例：100.00% (1)
+2019-03-03 15:18:30,957-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(3) .pvt label')
+2019-03-03 15:18:31,065-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(4) td:nth-last-child(1)')
+2019-03-03 15:18:31,125-HomePage-INFO-投票选项2标题：2.  002
+2019-03-03 15:18:31,125-HomePage-INFO-投票选项2比例：0.00% (0)
+2019-03-03 15:18:31,183-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(5) .pvt label')
+2019-03-03 15:18:31,290-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.pcht tbody tr:nth-child(6) td:nth-last-child(1)')
+2019-03-03 15:18:31,341-HomePage-INFO-投票选项3标题：3.  003
+2019-03-03 15:18:31,342-HomePage-INFO-投票选项3比例：0.00% (0)
+2019-03-03 15:18:31,397-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000168652749B0>找到页面元素('css selector', '.vwthd .ts span')
+2019-03-03 15:18:31,468-HomePage-INFO-投票标题：投票标题

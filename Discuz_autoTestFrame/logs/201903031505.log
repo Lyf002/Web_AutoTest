@@ -1,0 +1,25 @@
+2019-03-03 15:05:22,193-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-03-03 15:05:22,194-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-03-03 15:05:24,805-BrowserEngine-INFO-Starting chrome browser.
+2019-03-03 15:05:25,657-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 15:05:26,806-BrowserEngine-INFO-Maximize the current window.
+2019-03-03 15:05:26,808-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-03-03 15:05:26,882-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('id', 'ls_username')
+2019-03-03 15:05:27,043-BasePage-INFO-输入
+2019-03-03 15:05:27,097-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('id', 'ls_password')
+2019-03-03 15:05:27,227-BasePage-INFO-输入
+2019-03-03 15:05:27,289-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('css selector', '.fastlg_l em')
+2019-03-03 15:05:27,395-BasePage-INFO-点击
+2019-03-03 15:05:35,464-BasePage-INFO-<pageobjects.base.BasePage object at 0x000002D606801630>找到页面元素('css selector', '.vwmy a')
+2019-03-03 15:05:35,581-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('css selector', '.bm_c h2 a')
+2019-03-03 15:05:36,389-BasePage-INFO-点击
+2019-03-03 15:05:41,447-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('css selector', '.bm_c .pbt input')
+2019-03-03 15:05:41,720-BasePage-INFO-输入
+2019-03-03 15:05:41,792-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('id', 'fastpostmessage')
+2019-03-03 15:05:41,982-BasePage-INFO-输入
+2019-03-03 15:05:42,062-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('id', 'fastpostsubmit')
+2019-03-03 15:05:43,436-BasePage-INFO-点击
+2019-03-03 15:05:43,495-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('id', 'fastpostmessage')
+2019-03-03 15:05:43,711-BasePage-INFO-输入
+2019-03-03 15:05:43,811-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000002D605ED49B0>找到页面元素('link text', '退出')
+2019-03-03 15:05:44,358-BasePage-INFO-点击

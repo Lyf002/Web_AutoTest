@@ -1,0 +1,25 @@
+2019-02-28 19:39:46,310-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-02-28 19:39:46,311-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-02-28 19:39:48,911-BrowserEngine-INFO-Starting chrome browser.
+2019-02-28 19:39:51,303-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 19:39:52,466-BrowserEngine-INFO-Maximize the current window.
+2019-02-28 19:39:52,468-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-02-28 19:39:52,537-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('id', 'ls_username')
+2019-02-28 19:39:52,753-BasePage-INFO-输入
+2019-02-28 19:39:52,813-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('id', 'ls_password')
+2019-02-28 19:39:52,982-BasePage-INFO-输入
+2019-02-28 19:39:53,041-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('css selector', '.fastlg_l em')
+2019-02-28 19:39:53,150-BasePage-INFO-点击
+2019-02-28 19:39:58,465-BasePage-INFO-截图成功
+2019-02-28 19:39:58,523-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('css selector', '.bm_c h2 a')
+2019-02-28 19:39:59,326-BasePage-INFO-点击
+2019-02-28 19:40:04,389-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('css selector', '.bm_c .pbt input')
+2019-02-28 19:40:04,662-BasePage-INFO-输入
+2019-02-28 19:40:04,743-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('id', 'fastpostmessage')
+2019-02-28 19:40:04,914-BasePage-INFO-输入
+2019-02-28 19:40:04,980-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('id', 'fastpostsubmit')
+2019-02-28 19:40:06,188-BasePage-INFO-点击
+2019-02-28 19:40:06,349-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('id', 'fastpostmessage')
+2019-02-28 19:40:06,586-BasePage-INFO-输入
+2019-02-28 19:40:06,684-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x000001FF1EAF42B0>找到页面元素('link text', '退出')
+2019-02-28 19:40:07,083-BasePage-INFO-点击

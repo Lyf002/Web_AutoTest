@@ -1,0 +1,23 @@
+2019-03-03 15:35:31,165-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-03-03 15:35:31,167-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-03-03 15:35:34,239-BrowserEngine-INFO-Starting chrome browser.
+2019-03-03 15:35:35,070-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 15:35:36,220-BrowserEngine-INFO-Maximize the current window.
+2019-03-03 15:35:36,222-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-03-03 15:35:36,288-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('id', 'ls_username')
+2019-03-03 15:35:36,447-BasePage-INFO-输入
+2019-03-03 15:35:36,506-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('id', 'ls_password')
+2019-03-03 15:35:36,666-BasePage-INFO-输入
+2019-03-03 15:35:36,725-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('css selector', '.fastlg_l em')
+2019-03-03 15:35:36,839-BasePage-INFO-点击
+2019-03-03 15:35:41,920-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('id', 'scbar_txt')
+2019-03-03 15:35:41,981-BasePage-INFO-清除搜索框内容
+2019-03-03 15:35:42,021-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('id', 'scbar_txt')
+2019-03-03 15:35:42,161-BasePage-INFO-输入
+2019-03-03 15:35:42,221-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('css selector', '.scbar_btn_td .pn')
+2019-03-03 15:35:42,404-BasePage-INFO-点击
+2019-03-03 15:35:43,544-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('css selector', '.xs3 a strong font')
+2019-03-03 15:35:43,708-BasePage-INFO-点击
+2019-03-03 15:35:44,825-BasePage-INFO-<pageobjects.base.BasePage object at 0x00000179CEC91630>找到页面元素('id', 'thread_subject')
+2019-03-03 15:35:56,982-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000179CE374A20>找到页面元素('link text', '退出')
+2019-03-03 15:35:57,347-BasePage-INFO-点击

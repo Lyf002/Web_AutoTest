@@ -1,0 +1,12 @@
+2019-03-01 15:34:38,150-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-03-01 15:34:38,175-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-03-01 15:34:41,951-BrowserEngine-INFO-Starting chrome browser.
+2019-03-01 15:34:43,685-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-01 15:34:44,848-BrowserEngine-INFO-Maximize the current window.
+2019-03-01 15:34:44,852-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-03-01 15:34:45,024-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000291A2CFC438>找到页面元素('id', 'ls_username')
+2019-03-01 15:34:45,253-BasePage-INFO-输入
+2019-03-01 15:34:45,317-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000291A2CFC438>找到页面元素('id', 'ls_password')
+2019-03-01 15:34:45,474-BasePage-INFO-输入
+2019-03-01 15:34:45,541-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000291A2CFC438>找到页面元素('css selector', '.fastlg_l em')
+2019-03-01 15:34:45,848-BasePage-INFO-点击
